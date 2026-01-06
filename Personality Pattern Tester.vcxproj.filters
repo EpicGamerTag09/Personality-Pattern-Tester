@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dblPointQuestions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sngPointQuestions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="displayPersonality.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

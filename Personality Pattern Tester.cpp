@@ -2,6 +2,9 @@
 //
 
 #include <iostream>
+#include "dblPointQuestions.h"
+#include "sngPointQuestions.h"
+#include "displayPersonality.h"
 using namespace std;
 
 char answerKey[51][4] =
@@ -60,7 +63,6 @@ char answerKey[51][4] =
     {'A', 'A', 'B', 'B'},// 50
     {'A', 'B', 'B', 'A'},// 51
 };
-
 
 
 
