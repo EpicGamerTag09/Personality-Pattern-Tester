@@ -2,7 +2,7 @@
 using namespace std;
 
 #pragma region Data
-char answerKey[38][4] =
+char sngAnswerKey[38][4] =
 {
     // Single point questions
     {'B', 'B', 'A', 'A'},// 14
