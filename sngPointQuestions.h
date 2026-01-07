@@ -71,58 +71,58 @@ string sngQuestionsPartTwo[20] =
 
 string sngQuestionsPartThree[18][2] =
 {
-    {"34. I am:",
-     "A. Sexually Appealing     B. Faithful"},
+     {"34. I am:",
+      "    A. Sexually Appealing                             B. Faithful"},
 
-    {"35. In responding to other people, I usually follow:",
-     "A. My heart               B. My head"},
+     {"35. In responding to other people, I usually follow:",
+      "    A. My heart                                       B. My head"},
 
      {"36. I want:",
-     "A. To belong              B. I don't care whether I belong or not"},
+      "    A. To belong                                      B. I don't care whether I belong or not"},
 
      {"37. I would rather my colleagues refer to me as:",
-     "A. Sensitive              B. Reasonable"},
-
+      "    A. Sensitive                                      B. Reasonable"},
+        
      {"38. I like:",
-     "A. Being rebellious      B. Having discipline"},
+      "    A. Being rebellious                               B. Having discipline"},
 
      {"39. In delivering services, I place a higher value on:",
-     "A. Feeling and creativity      B. Precision and planning"},
+      "    A. Feeling and creativity                         B. Precision and planning"},
 
      {"40.I...",
-     "A. Like to be different from my associates      B. Dont like being different from my associates"},
+      "    A. Like to be different from my associates        B. Don't like being different from my associates"},
 
      {"41. I least like working with people who are:",
-     "A. Unsympathetic      B. Unreasonable"},
+      "    A. Unsympathetic                                  B. Unreasonable"},
 
      {"42. I...",
-     "A. Am difficult to please      B. Like doing favors"},
+      "    A. Am difficult to please                         B. Like doing favors"},
 
      {"43. The trait I most want in my manager is:",
-     "A. Caring      B. Fairness"},
+      "    A. Caring                                         B. Fairness"},
 
      {"44. I...",
-     "A. Need someone in whom I can confide Completely      B. Am selfish"},
+      "    A. Need someone in whom I can confide Completely  B. Am selfish"},
 
      {"45. I have the most difficulty working with people who are:",
-     "A. Too emotional      B. Not emotional"},
+      "    A. Too emotional                                  B. Not emotional"},
 
      {"46. I...",
-     "A. Play fair      B. Am an individual"},
+      "    A. Play fair                                      B. Am an individual"},
 
      {"47. I most want my coworkers to respect my:",
-     "A. Feelings      B. Rights"},
+      "    A. Feelings                                       B. Rights"},
 
      {"48. I am:",
-     "A. Independent      B. Loyal"},
+      "    A. Independent                                    B. Loyal"},
 
-     {"49. My favorite people are usally:",
-     "A. Reserved      B. Enthusiacstic"},
+     {"49. My favorite people are usually:",
+      "    A. Reserved                                       B. Enthusiastic"},
 
      {"50. I admire people so much that:",
-     "A. I would not question their opinions      B. I do not admire anyone that much"},
+      "    A. I would not question their opinions            B. I do not admire anyone that much"},
 
      {"51. I like being known for:",
-     "A. Being sensitive      B. Being the expert"},
+      "    A. Being sensitive                                B. Being the expert"},
 };
 #pragma endregion
