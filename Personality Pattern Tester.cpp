@@ -19,4 +19,11 @@ int main()
 	// values for the four different personality types
 
 	part1Questions(Cooperator, Analyzer, Regulator, Energizer);
+	part2Questions(Cooperator, Analyzer, Regulator, Energizer);
+
+	cout << Cooperator << endl;
+	cout << Analyzer << endl;
+	cout << Regulator << endl;
+	cout << Energizer << endl;
+	// test to see what the values are
 }

@@ -75,7 +75,6 @@ string dblQuestions[13][3] =
      "   B. Being controlled                    D. Being ignored"},
 };
 #pragma endregion
-#pragma endregion
 
 void part1Questions(int& bucket1, int& bucket2, int& bucket3, int& bucket4)
 {// Asks the user 13 2-point questions and adds the scored points to the correct column
