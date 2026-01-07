@@ -7,7 +7,7 @@ string dblQuestions[13][3];
 #pragma endregion
 
 void doublePointQuestions(int& bucket1, int& bucket2, int& bucket3, int& bucket4)
-{// Asks the user 13 2-point questions and adds the scored points to the correct collumn
+{// Asks the user 13 2-point questions and adds the scored points to the correct column
 	char userAnswer;
 	bool needData;
 	for (int i = 0; i < 13; i++)
