@@ -6,10 +6,11 @@ char dblAnswerKey[13][4];
 string dblQuestions[13][3];
 #pragma endregion
 
-void doublePointQuestions(int& bucket1, int& bucket2, int& bucket3, int& bucket4)
+void part1Questions(int& bucket1, int& bucket2, int& bucket3, int& bucket4)
 {// Asks the user 13 2-point questions and adds the scored points to the correct column
 	char userAnswer;
 	bool needData;
+	cout << "Part I: Complete the following sentences with the choice that best describes you." << endl;
 	for (int i = 0; i < 13; i++)
 	{
 		do
