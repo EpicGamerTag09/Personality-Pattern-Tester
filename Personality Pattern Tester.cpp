@@ -4,6 +4,7 @@
 // Date Completed: N/A
 
 #include <iostream>
+#include <algorithm>
 #include "dblPointQuestions.h"
 #include "sngPointQuestions.h"
 #include "displayPersonality.h"
@@ -20,7 +21,28 @@ int main()
 
 	part1Questions(Cooperator, Analyzer, Regulator, Energizer);
 	part2Questions(Cooperator, Analyzer, Regulator, Energizer);
+	part3Questions(Cooperator, Analyzer, Regulator, Energizer);
 
+	cout << "Congratulations, you've completed the Programmer Personality Test!" << endl;
+
+	int highestValue = max({ Cooperator, Analyzer, Regulator, Energizer });
+	if (Cooperator == highestValue)
+	{
+		CooperatorDisplay();
+	}
+	else if (Analyzer == highestValue)
+	{
+		AnalyzerDisplay();
+	}
+	else if (Regulator == highestValue)
+	{
+		RegulatorDisplay();
+	}
+	else
+	{
+		EnergizerDisplay();
+	}
+	
 	cout << Cooperator << endl;
 	cout << Analyzer << endl;
 	cout << Regulator << endl;
