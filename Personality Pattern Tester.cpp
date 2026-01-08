@@ -42,10 +42,4 @@ int main()
 	{
 		EnergizerDisplay();
 	}
-	
-	cout << Cooperator << endl;
-	cout << Analyzer << endl;
-	cout << Regulator << endl;
-	cout << Energizer << endl;
-	// test to see what the values are
 }
