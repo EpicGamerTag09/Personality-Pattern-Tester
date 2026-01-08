@@ -3,8 +3,7 @@ using namespace std;
 
 #pragma region Data
 char sngAnswerKey[38][4] =
-{
-    // Single point questions
+{// Single point questions
     {'B', 'B', 'A', 'A'},// 14
     {'A', 'B', 'B', 'A'},// 15
     {'A', 'A', 'B', 'B'},// 16

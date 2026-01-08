@@ -3,8 +3,7 @@ using namespace std;
 
 #pragma region Data
 char dblAnswerKey[13][4] =
-{
-    // Double point questions
+{// Double point questions
     {'B', 'D', 'C', 'A'},// 1
     {'B', 'D', 'A', 'C'},// 2
     {'A', 'D', 'C', 'B'},// 3
@@ -74,7 +73,6 @@ string dblQuestions[13][3] =
      "   A. Making mistakes                     C. Rejection",
      "   B. Being controlled                    D. Being ignored"},
 };
-#pragma endregion
 #pragma endregion
 
 void part1Questions(int& bucket1, int& bucket2, int& bucket3, int& bucket4)
