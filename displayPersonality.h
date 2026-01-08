@@ -33,7 +33,7 @@ void AnalyzerDisplay()
 
 	cout << "You respond well to: \n- Facts \n- Cooperation \n- Reasoning \n \n";
 
-	cout << "Your barriers are: \n- Slow to move \n- Rigidity \n- Fear of risk";
+	cout << "Your barriers are: \n- Slow to move \n- Rigidity \n- Fear of risk \n";
 	cout << "The skills you need to develop for effectiveness are: \n- Flexibility \n- Appreciation of others \n- Verbalization skills \n- Participation of others \n- Sensitivity to feelings \n \n";
 }
 
