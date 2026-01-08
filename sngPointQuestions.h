@@ -125,6 +125,7 @@ string sngQuestionsPartThree[18][2] =
       "    A. Being sensitive                                B. Being the expert"},
 };
 #pragma endregion
+
 void part2Questions(int& bucket1, int& bucket2, int& bucket3, int& bucket4)
 {// Asks the user 20 1-point questions and adds the scored points to the correct column
     char userAnswer;
