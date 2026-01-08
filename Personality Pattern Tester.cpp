@@ -1,7 +1,7 @@
 // Personality Pattern Tester.cpp: Designed to allow students to do a personality test without the need for paper
 // Programmers: Aidan Litschi & Jensen Dries
 // Start Date: 1/6/26
-// Date Completed: N/A
+// Date Completed: 1/8/26
 
 #include <iostream>
 #include <algorithm>
