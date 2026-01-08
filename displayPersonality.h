@@ -17,7 +17,7 @@ void CooperatorDisplay()
 	cout << "You respond well to: \n- Sincerity \n- Loyalty \n- Assurance \n- Cooperation\n \n";
 
 	cout << "Your barriers are: \n- Lack of direction \n- Uncertainty \n- Slow to action \n \n";
-	cout << "Your need to develop for effectiveness: \n- Emotional Control \n- Action-oriented \n- Tendency \n- Risk taking ability \n- Objectivity \n- Critical thinking \n \n";
+	cout << "The skills you need to develop for effectiveness are: \n- Emotional Control \n- Action-oriented \n- Tendency \n- Risk taking ability \n- Objectivity \n- Critical thinking \n \n";
 }
 
 void AnalyzerDisplay()
