@@ -1,5 +1,7 @@
-// Personality Pattern Tester.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Personality Pattern Tester.cpp: Designed to allow students to do a personality test without the need for paper
+// Programmers: Aidan Litschi & Jensen Dries
+// Start Date: 1/6/26
+// Date Completed: N/A
 
 #include <iostream>
 #include "dblPointQuestions.h"
@@ -10,6 +12,18 @@ using namespace std;
 
 int main()
 {
+	int Cooperator = 0;
+	int Analyzer = 0;
+	int Regulator = 0;
+	int Energizer = 0;
+	// values for the four different personality types
 
-    std::cout << "Hello World!\n";
+	part1Questions(Cooperator, Analyzer, Regulator, Energizer);
+	part2Questions(Cooperator, Analyzer, Regulator, Energizer);
+
+	cout << Cooperator << endl;
+	cout << Analyzer << endl;
+	cout << Regulator << endl;
+	cout << Energizer << endl;
+	// test to see what the values are
 }
